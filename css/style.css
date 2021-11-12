@@ -1,0 +1,36 @@
+h4{
+	color: green;
+	background-color: yellow;
+	font-size: 50px;
+}
+
+.head1{
+	color:  blueviolet;
+	font-size: 50px;
+}
+/*CSS class selector*/
+
+.head2{
+	border: 10px dotted green;
+	font-size: 50px;
+}
+/*CSS class selector*/
+
+#head3{
+font-size: 50px;
+font-style: italic;
+}
+/*CSS ID selector*/
+
+.box1{
+	background-color: #21ff00;
+	width: 50%;
+	height: 20rem;
+}
+
+.box2{
+	background-color: rgba(0, 0, 0, 0.5);
+	width: 50%;
+	height: 20rem;
+	text-align: center;
+}
